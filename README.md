@@ -1,3 +1,8 @@
+# Reference
+
+https://docs.microsoft.com/en-gb/azure/synapse-analytics/cicd/continuous-integration-delivery
+
+
 [![CI](https://github.com/santiagxf/synapse-cicd/actions/workflows/ci.yml/badge.svg)](https://github.com/santiagxf/synapse-cicd/actions/workflows/ci.yml)
 [![CD](https://github.com/santiagxf/synapse-cicd/actions/workflows/cd.yml/badge.svg)](https://github.com/santiagxf/synapse-cicd/actions/workflows/cd.yml)
 # Azure Synapse CI/CD pipelines with GitHub Actions or Azure DevOps Pipelines
